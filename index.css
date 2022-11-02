@@ -188,7 +188,7 @@ background: red;
     margin-left: 5%;
     display: flex;
     justify-content: center;
-    align-items:flex-start ;  /*text*/ 
+    align-items:center ;  /*text*/ 
     font-weight: bold;
     font-size: 4rem;
     position: relative;
